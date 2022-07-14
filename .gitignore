@@ -1,0 +1,4 @@
+.idea
+.src/main/resources/
+# Project exclude paths
+/target/
